@@ -1,16 +1,7 @@
 # save_points_chart_demo
 
-A new Flutter project.
+### 文章地址[]
 
-## Getting Started
+### 展示图
+![展示图](assets/images/save_points_chart_demo.gif)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
